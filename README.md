@@ -20,6 +20,11 @@ In the `assets`folder of this assignment you have a `contacts.json` file that co
 
 To complete this assignment, you need to fork this repository, add your code in the "code" folder, and then submit a pull request on GitHub (from your repository into the Technigo one) for review.
 
+### Readings
+
+* [Getting started with Express - Hello World example](http://expressjs.com/en/starter/hello-world.html)
+* [Glossary – Talk the backend language](https://expressjs.com/en/resources/glossary.html)
+* [Sending the first request with Postman](https://www.getpostman.com/docs/postman/launching_postman/sending_the_first_request)
 ---
 
 ### :sos: How to get help
@@ -34,12 +39,15 @@ Learning how to think as a web developer is learning how to be an expert in prob
 
 ### :boom: Success!
 
-After completing this assignment you should be comfortable with how to find and use external React libraries you find online. You should also get a little practice using array functions to select and clean data. Hopefully you'll have a little insight into what WebSockets can do, too!
+After completing this assignment your should have tried a little Node.js and Express and have more knowlege about how servers and API's work. 
 
 ---
 
 ### :runner: Stretch Goals
 
-Stretch goals for this project are entirely up to you, and depend very much on what library you chose. Try to find something challenging to implement using the library, or find a new library to set up!
+Done with the main task? Try some of the above suggestions or make something up yourself. 
 
-Also, a great stretch goal would be to read up on WebSockets and to try to understand the code in code/src/gdax-websocket.js.
+1. Add on a frontend so that you can search for a specifik person. 
+1. Add on more info about the persons. 
+1. Add error handling so that you can search with capitlized searches, all caps in the aearches and still find the correct person. 
+
