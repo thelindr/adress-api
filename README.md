@@ -16,6 +16,10 @@ If the person you are searching for does not exist you should return a `404 mess
 
 In the `assets`folder of this assignment you have a `contacts.json` file that contains javascript objects of contacts. 
 
+### Get started with Node and Express
+
+### Making requests from Postman
+
 ### Hand in the assignment
 
 To complete this assignment, you need to fork this repository, add your code in the "code" folder, and then submit a pull request on GitHub (from your repository into the Technigo one) for review.
