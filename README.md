@@ -1,4 +1,4 @@
-# Sprint 4, Build an Phone Book
+# Sprint 4, Build a Phone Book API :telephone:
 
 Today's assignment is to build an smaller API – the server side of a phone book. The API can later be used to build webpages like Eniro or Hitta.se. You're API should return name, phone number and email address from a given blob of json. 
 
