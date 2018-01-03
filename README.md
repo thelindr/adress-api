@@ -55,18 +55,6 @@ Below are the steps we followed in the lecture for creating a new express projec
 
 </p></details>
 
-<details><summary>Make a start script in package.json</summary><p>
-
-```javascript
-{
-  "scripts": {
-    "start": "nodemon server.js --exec babel-node",
-  }
-}
-```
-
-</p></details>
-
 <details><summary>Install and configure express</summary><p>
 
 Run `npm install express` to install express as a dependency.
