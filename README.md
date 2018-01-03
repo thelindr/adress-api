@@ -24,16 +24,16 @@ Below are the steps we followed in the lecture for creating a new express projec
 <details><summary>Create project & setup dependencies</summary><p>
 
 1. If you haven't already, cd into the code folder of this assignment.
-1. Create server.js. Leave it empty for now.
-1. Run `npm init`
-1. `npm install nodemon babel-cli babel-preset-env eslint-config-technigo --save-dev`
-1. create .babelrc:
+2. Create server.js. Leave it empty for now.
+3. Run `npm init`
+4. `npm install nodemon babel-cli babel-preset-env eslint-config-technigo --save-dev`
+5. create .babelrc:
   ```
   {
     "presets": ["env"]
   }
   ```
-1. Create `.eslintconfig.json`:
+6. Create `.eslintconfig.json`:
   ```
   {
     "extends": [
@@ -58,6 +58,8 @@ Below are the steps we followed in the lecture for creating a new express projec
 <details><summary>Install and configure express</summary><p>
 
 Run `npm install express` to install express as a dependency.
+
+Then update server.js to create a server:
 
 ```
 import express from "express"
